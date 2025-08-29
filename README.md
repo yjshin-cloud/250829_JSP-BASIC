@@ -15,3 +15,7 @@
 <img width="970" height="497" alt="1-3  jpa basic h2 db console 접속 test2_20250829" src="https://github.com/user-attachments/assets/52e49b51-92e0-4314-a547-61ead2a27a11" />
 
 ---
+
+<img width="384" height="127" alt="image" src="https://github.com/user-attachments/assets/5f9657db-13bf-49a3-b9e3-6ccf08ed998a" />
+
+---
